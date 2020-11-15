@@ -27,6 +27,14 @@ p {
     font-size: 1.3rem;
 }
 
+#faq-title {
+    font-size: 1.3rem;
+}
+
+.bold {
+    font-weight: bold;
+}
+
 span {
     color: hsl(237, 12%, 33%);
     font-size: .8rem;
